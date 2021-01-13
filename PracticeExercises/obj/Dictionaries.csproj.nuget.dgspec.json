@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {}
+    "/Users/benetclark/codecamp2020/visual_studio/CSharp/PracticeExercises/Dictionaries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {
+    "/Users/benetclark/codecamp2020/visual_studio/CSharp/PracticeExercises/Dictionaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
+        "projectUniqueName": "/Users/benetclark/codecamp2020/visual_studio/CSharp/PracticeExercises/Dictionaries.csproj",
         "projectName": "Dictionaries",
-        "projectPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
-        "packagesPath": "C:\\Users\\Gypsy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\obj\\",
+        "projectPath": "/Users/benetclark/codecamp2020/visual_studio/CSharp/PracticeExercises/Dictionaries.csproj",
+        "packagesPath": "/Users/benetclark/.nuget/packages/",
+        "outputPath": "/Users/benetclark/codecamp2020/visual_studio/CSharp/PracticeExercises/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gypsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/benetclark/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
